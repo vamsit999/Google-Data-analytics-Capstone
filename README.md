@@ -43,5 +43,4 @@ CapstoneprojectCyclisticDivvyBikes/DashboardforCyclisticDivvyBikes#2
 
 Act Phase:
 
-So from the dashboards (share phase), it was clear that annual members are using cyclistic
-bikes more than casual users. So a decision can be made that cyclistic company busin
+So from the dashboards (share phase), it was clear that annual members are using cyclistic bikes more than casual users. So a decision can be made that cyclistic company business will be improved if casual riders are converted to annual members.
